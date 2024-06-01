@@ -1,7 +1,7 @@
 # main.yml
 
 # Workflow's name
-name: Build
+name: Build1
 
 # Workflow's trigger
 on:
